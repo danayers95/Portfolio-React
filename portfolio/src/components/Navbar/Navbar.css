@@ -1,0 +1,13 @@
+.navbar {
+    background: rgb(75, 75, 104);
+  }
+  
+  .navbar a {
+    color: white;
+    padding: 0 10px;
+  }
+  
+  .navbar a:hover {
+    color: #a4a4a4;
+    text-decoration: none;
+  }
